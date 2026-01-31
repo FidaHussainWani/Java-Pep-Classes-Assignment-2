@@ -1,0 +1,3 @@
+interface SportsParticipant {
+    void playSport();
+}
